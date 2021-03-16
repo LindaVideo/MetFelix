@@ -12,3 +12,6 @@ for getal in getallen:
 			print("andere")
 		teller = teller + 1
 
+
+print(---)
+
